@@ -17,7 +17,7 @@ highlighter: rouge
 analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: akhand
 
 # if you don't have any of social below, comment the line
 facebook: akhandps
@@ -29,8 +29,8 @@ twitter: akki0503
 youtube: akhandps
 spotify: akhandps
 github: akhandps
-medium: medium
-email: nobody@gmail.com
+#medium: medium
+#email: nobody@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
