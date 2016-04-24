@@ -36,23 +36,23 @@ Well if you thought that's insane, you would be scratching your heads, when you 
 
 And I thought Christopher Nolan, is the CEO of the Dream inside Dream business.
 
-If you are thinking pfff! Religions they always come up with Crazy stuff, well Religions are'nt the only ones who were dreaming about the dreams in which we might be dreaming in. Philosophers from long time has playing with these ideas, like Plato's Allegory of the Cave , where he talks about people imprisoned in a cave from childhood, and only see shadows of things outside of the cave and percieve that shadows are the ultimate reality, his argument is really intriguing, you can read it in detail [here][https://en.wikipedia.org/wiki/Allegory_of_the_Cave]. 
+If you are thinking pfff! Religions they always come up with Crazy stuff, well Religions are'nt the only ones who were dreaming about the dreams in which we might be dreaming in. Philosophers from long time has playing with these ideas, like Plato's Allegory of the Cave , where he talks about people imprisoned in a cave from childhood, and only see shadows of things outside of the cave and percieve that shadows are the ultimate reality, his argument is really intriguing, you can read it in detail [here](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). 
 
-And René Descartes famous [Dream Argument][https://en.wikipedia.org/wiki/Dream_argument] which can be summarized to
->While people dream, they usually do not realize they are dreaming (if they do, it is called a [lucid dream][https://en.wikipedia.org/wiki/Lucid_dreaming]). This has led philosophers to wonder whether one could actually be dreaming constantly, instead of being in waking reality (or at least that one cannot be certain, at any given point in time, that one is not dreaming)
+And René Descartes famous [Dream Argument](https://en.wikipedia.org/wiki/Dream_argument) which can be summarized to
+>While people dream, they usually do not realize they are dreaming (if they do, it is called a [lucid dream](https://en.wikipedia.org/wiki/Lucid_dreaming)). This has led philosophers to wonder whether one could actually be dreaming constantly, instead of being in waking reality (or at least that one cannot be certain, at any given point in time, that one is not dreaming)
 
 If you are thinking Religion founders and Ancient Philosophers are'nt exactly the people I goto when I am looking for finding the answers. Well you might be in luck there are other bunch of people who may be able to help.
 
 >The Simulation Argument is perhaps the first interesting argument for the existence of a Creator in 2000 years.
--- [David Pearce][https://en.wikipedia.org/wiki/David_Pearce_(philosopher)]
+-- [David Pearce](https://en.wikipedia.org/wiki/David_Pearce_(philosopher))
 
-In his 2003 research paper [Nick Bostrom][https://en.wikipedia.org/wiki/Nick_Bostrom] (again a Philosopher, what's up with these guys anyways) produces an Argument 
+In his 2003 research paper [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (again a Philosopher, what's up with these guys anyways) produces an Argument 
 
->A technologically mature "posthuman" civilization would have enormous computing power. Based on this empirical fact, the simulation argument shows that at least one of the following propositions is true:
-*The fraction of human-level civilizations that reach a posthuman stage is very close to zero;
-*The fraction of posthuman civilizations that are interested in running ancestor-simulations is very close to zero;
-*The fraction of all people with our kind of experiences that are living in a simulation is very close to one.
-
+>A technologically mature "posthuman" civilization would have enormous computing power. Based on this empirical fact, the simulation argument shows that at least one of the following propositions is true:<br>
+1) The fraction of human-level civilizations that reach a posthuman stage is very close to zero;<br>
+2) The fraction of posthuman civilizations that are interested in running ancestor-simulations is very close to zero;<br>
+3) The fraction of all people with our kind of experiences that are living in a simulation is very close to one.<br>
+<br>
 >If (1) is true, then we will almost certainly go extinct before reaching posthumanity. If (2) is true, then there must be a strong convergence among the courses of advanced civilizations so that virtually none contains any relatively wealthy individuals who desire to run ancestor-simulations and are free to do so. If (3) is true, then we almost certainly live in a simulation. In the dark forest of our current ignorance, it seems sensible to apportion one’s credence roughly evenly between (1), (2), and (3).
 Unless we are now living in a simulation, our descendants will almost certainly never run an ancestor-simulation.
 
