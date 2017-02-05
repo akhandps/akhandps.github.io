@@ -22,7 +22,7 @@ What is this universe?<br>
 Why are we here?<br>
 How was this created?<br>
 
-These are some of the questions which the mankind have been trying to find answers for from ages, and boy did we found the answers!! A thousands of them, from stories of a cosmic egg hatching, **God** creating it in 7 days, Intergalactic lord Xenu blasting thetans, to Big Bang which created the universe from singularity, some more believable than the other but each of them equally fascinating and have been keeping humans amused from long time.
+These are some of the questions which the mankind have been trying to find answers for, from ages, and boy did we found the answers!! A thousands of them, from stories of a cosmic egg hatching, **God** creating it in 7 days, Intergalactic lord Xenu blasting thetans, to Big Bang which created the universe from singularity, some more believable than the other but each of them equally fascinating and have been keeping humans amused from long time.
 
 Although I have been specially fascinated by the idea that this world might just be a dream or a simulation which gives a sense of reality which really does not exists. If you are not familiar with this idea just let it sink in, think of it like a dream, but its not your dream(or it could be yours, save it for later) and you are just another person in someone else dream. Nah! that can't be real, well some of the our forefather's thought so. In vedic hindu traditions, specially Vaishnav sect it is believed that this universe is just an Maya(Illusion/magic/dream debatable) of Lord Vishnu and nothing here is real, except for us who are Atma(Soul) who are seeing this illusion created by Vishnu and our primary goal is to seperate us from this maya and achieve Nirvana.
 
@@ -41,6 +41,7 @@ And I thought Christopher Nolan, is the CEO of the Dream inside Dream business.
 If you are thinking pfff! Religions they always come up with Crazy stuff, well Religions are'nt the only ones who were dreaming about the dreams in which we might be dreaming in. Philosophers from long time has playing with these ideas, like Plato's Allegory of the Cave , where he talks about people imprisoned in a cave from childhood, and only see shadows of things outside of the cave and percieve that shadows are the ultimate reality, his argument is really intriguing, you can read it in detail [here](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). 
 
 And René Descartes famous [Dream Argument](https://en.wikipedia.org/wiki/Dream_argument) which can be summarized to
+
 >While people dream, they usually do not realize they are dreaming (if they do, it is called a [lucid dream](https://en.wikipedia.org/wiki/Lucid_dreaming)). This has led philosophers to wonder whether one could actually be dreaming constantly, instead of being in waking reality (or at least that one cannot be certain, at any given point in time, that one is not dreaming)
 
 If you are thinking Religion founders and Ancient Philosophers are'nt exactly the people I goto when I am looking for finding the answers. Well you might be in luck there are other bunch of people who may be able to help.
@@ -58,6 +59,9 @@ In his 2003 research paper [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bos
 >If (1) is true, then we will almost certainly go extinct before reaching posthumanity. If (2) is true, then there must be a strong convergence among the courses of advanced civilizations so that virtually none contains any relatively wealthy individuals who desire to run ancestor-simulations and are free to do so. If (3) is true, then we almost certainly live in a simulation. In the dark forest of our current ignorance, it seems sensible to apportion one’s credence roughly evenly between (1), (2), and (3).
 Unless we are now living in a simulation, our descendants will almost certainly never run an ancestor-simulation.
 
-So, what he is saying is that we are most likely a player in a Computer game, which some random dudes have programmed and are just watching it. Thank God(In this case the programmer/s) , the Game is not Counter Strike, where Ts and CTs are just shooting each other and spawning again to do the same.
+To summarize, what he is saying essentially, is that if given enough computational power and will to do so, we will run our own simulation of life.
+And if we do, that means, it could be strongly argued that we ourselves are living in one such simulation.
 
-Well all this mind numbing discussion does is to create a horrid picture of we being nothing or living in nothing. But where is the proof that we are indeed living in a Simulation/Dream. That is an argument for the next post, till then enjoy the Matrix. 
+So, what it means is that we are most likely a player in a Computer game, which some random dudes have programmed and are just watching it. Thank God(In this case the programmer/s) , the Game is not Counter Strike, where Ts and CTs are just shooting each other and spawning again to do the same(Wait, are we sure of this?).
+
+Well all this mind numbing discussion does, is to create a horrid picture of we being nothing or living in nothing. But where is the proof that we are indeed living in a Simulation/Dream. That is an argument for the next post, till then enjoy the Matrix.
