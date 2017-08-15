@@ -7,7 +7,7 @@ angular.module('sendModule', [])
     sendModule.toToken = $location.search()['token'];
 
     /**
-     * Basic send function to sen the given message, and initialize the conversation.
+     * Basic send function to send the given message, and initialize the conversation.
      */
     sendModule.send = function() {
       var linkUrl = "https://httprelay.io/link/"+ sendModule.toToken;
@@ -19,6 +19,7 @@ angular.module('sendModule', [])
       };
 
       $http.post(linkUrl, messageObject);
+      sendModule.message = "";
     };
 
     /**
